@@ -21,14 +21,12 @@ STATUS, SPECIAL_CONSIDERATIONS, and ASK_AMT (No relationship with IS_SUCCESSFUL)
 ### Compiling, Training, and Evaluating the Model
 - How many neurons, layers, and activation functions did you select for your neural network model, and why?
 
-Layer1: 120 RELU
+Layer1: 60 RELU
 
-Layer2: 60 RELU
-
-Layer3: 30 TANH
+Layer2: 20 TANH
 
 - Were you able to achieve the target model performance?
-No.
+Yes.
 
 - What steps did you take to try and increase model performance?
 Enhanced data cleaning, tried different number of neurons, layers and activation functions.
