@@ -35,7 +35,7 @@ Enhanced data cleaning, tried different number of neurons, layers and activation
 
 ## Summary
 
-In summary the final model was able to achieve an accuracy of 72.5%.
+In summary the final model was able to achieve an accuracy of 75.4%.
 However, this is not a significant improvement compared to a Logistic Regression that is more simple and interpretable.
 
 There might be some data engineering steps that can potentialy improve the model or even capture aditional features.
